@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="" alt="Olympic Dashboard" width="100%">
+</p>
+
 # OlympicsTrendAnalysis
 This is a summer olympics dashboard project.
 
